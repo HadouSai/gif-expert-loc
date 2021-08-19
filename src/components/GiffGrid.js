@@ -5,7 +5,7 @@ import { useFetchGifs } from "../hooks/useFetchGifs";
 
 /**
  *
- * @param {*} category
+ * @param {string} category
  * @returns
  */
 const GiffGrid = ({ category }) => {

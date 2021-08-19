@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing in main component should appear in root 1`] = `
+<div>
+  <h2>
+    GiftExpertApp
+  </h2>
+  <AddCategory
+    setCategories={[Function]}
+  />
+  <hr />
+  <div>
+    <GiffGrid
+      category="Hatsune"
+      key="0"
+    />
+  </div>
+</div>
+`;

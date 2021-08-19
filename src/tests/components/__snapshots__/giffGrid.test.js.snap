@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing in giffgrid should appear GiffGrid 1`] = `
+<div>
+  <h2>
+    kurumi
+  </h2>
+  <ol>
+    <p>
+      Loading
+    </p>
+  </ol>
+</div>
+`;

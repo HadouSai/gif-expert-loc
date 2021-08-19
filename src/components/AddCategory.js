@@ -11,8 +11,11 @@ const AddCategory = ({ setCategories }) => {
   const handleSubmit = (e) => {
     e.preventDefault();
 
-    if (inputValue.trim().length > 2)
+    console.log('entre', inputValue)
+    if (inputValue.trim().length > 2) {
       setCategories((categories) => [inputValue, ...categories]);
+      setInputValue('');
+    }
   };
 
   return (

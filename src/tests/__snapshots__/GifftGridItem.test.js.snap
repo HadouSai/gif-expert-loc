@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en GiffGridItem should renderize GiffGridItem compnent 1`] = `
+<li
+  className="card"
+  key="1"
+>
+  <span>
+    aa
+  </span>
+  <img
+    alt="aa"
+    src="https://www.giffgrid.com/"
+  />
+</li>
+`;
